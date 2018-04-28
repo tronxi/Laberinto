@@ -1,0 +1,6 @@
+C:\programas\c#\LaberintoIA\LaberintoIA\LaberintoIA\bin\Debug\LaberintoIA.exe.config
+C:\programas\c#\LaberintoIA\LaberintoIA\LaberintoIA\bin\Debug\LaberintoIA.exe
+C:\programas\c#\LaberintoIA\LaberintoIA\LaberintoIA\bin\Debug\LaberintoIA.pdb
+C:\programas\c#\LaberintoIA\LaberintoIA\LaberintoIA\obj\Debug\LaberintoIA.exe
+C:\programas\c#\LaberintoIA\LaberintoIA\LaberintoIA\obj\Debug\LaberintoIA.pdb
+C:\programas\c#\LaberintoIA\LaberintoIA\LaberintoIA\obj\Debug\LaberintoIA.csprojResolveAssemblyReference.cache
